@@ -1,0 +1,26 @@
+00:DO RE MI FA _ _ _:SOL LA SI
+01:¿Que grupo creo la cancion "Patience"?:Guns'N'Roses
+02:¿De que marca es la Guitarra que Toca Slash el guitarrista de Guns'N'Roses?:Gibson
+03:¿De quien es la cancion "Enter Sandman"?:Metallica
+04:¿De quies es la canción "Verano Del 92"?:Los Piojos
+05:¿Paul, John, George, Ringo, a que grupo me refiero?:Los Beatles
+06:¿Quien era el dueno de los derechos de autor de los Beatles?:Michael Jackson
+07:¿De quien es la cancion "Imagine"?:John Lennon
+08:¿De quien es la cancion "We Will Rock You"?:Queen
+09:¿hey 2+2-4+5+6-11=?:Cero
+10:¿Que profesion tiene bart de grande?:Musico
+11:¿Que profesion tiene lisa de grande?:Presidenta
+12:¿Quien es el secretario de lisa la presidenta?:Milhouse
+13:¿Cuantos dedos tienen los simpson en cada pie?:Cinco
+14:¿En que pais se origino el escandalo Flick?:Alemania
+15:¿Que palabra designa la oposicion a una corriente electrica en un conductor?:Resistencia
+16:¿Como se denomina al toro completamente negro?:Zaino
+17:¿Como se llamaba anteriormente Iran?:Persia
+18:¿Que grupo heroico estaba encabezado por DArtagnan?:Los Tres Mosqueteros
+19:¿A que tipo de animal pertenece el mamifero mas pequeno?:Murcielago
+20:¿Cual es el pais mas pequeño de la C.E.E.?:Luxemburgo
+21:¿En que siglo se formo la secta religiosa de los mormones?:XIX
+22:¿Que resina amarilla y fosilizada utilizaban los griegos y los romanos en joyeria?:Ambar
+23:¿Que rasgo facial comun contiene aproximadamente 550 pelos?:Ceja
+24:¿Que organizacion de futbol tiene 150 paises afiliados?:FIFA 
+25:¿En que continente se encuentra Nueva Zelandia?:Oceania

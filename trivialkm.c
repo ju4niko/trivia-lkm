@@ -21,7 +21,7 @@
 #define  DEVICE_NAME "trivialkm"  ///< el dispositivo aparece con este nombre en /dev
 #define  CLASS_NAME  "fslkm"      ///< nombre de la clase de dispositivo en el sysfs
 
-MODULE_LICENSE("GPL");            ///< Tipo de licencia, esto afecta la funcionalidad
+MODULE_LICENSE("GPL");            ///< Tipo de licencia
 MODULE_AUTHOR("Juan A. Montenegro");    ///< Autor, visible con modinfo
 MODULE_DESCRIPTION("Juego de trivia con botones y luces");  ///< Descripcion visible con modinfo
 MODULE_VERSION("0.1");            ///< Numero de versionado
@@ -30,11 +30,11 @@ static int    majorNumber;                  ///< Almacena el numero mayor de dev
 static char   message[256] = {0};           ///< Memoria para la string de los mensajes de pregunta y respuesta hacia espaci de usaurio
 static int    size_of_message;              ///< Para el mensaje
 static int    numberPresses = 0;            ///< acumulador de botonazos
-static struct class*  triviaClass  = NULL; ///< puntero a device-driver class struct 
-static struct device* triviaDevice = NULL; ///< puntero a device-driver device struct
-static unsigned int irq1;          ///< irq para el boton 1
-static unsigned int irq2;          ///< irq para el boton 2
-static unsigned char boton;		///< nro de boton para devolver en read()
+static struct class*  triviaClass  = NULL; 	///< puntero a device-driver class struct 
+static struct device* triviaDevice = NULL; 	///< puntero a device-driver device struct
+static unsigned int irq1;          			///< irq para el boton 1
+static unsigned int irq2;          			///< irq para el boton 2
+static unsigned char boton;					///< nro de boton para devolver en read()
 
 static unsigned int gpioR1 = 49;       ///< Harcodeamos los leds a pines de gpio
 static unsigned int gpioR2 = 44;       ///< Harcodeamos los leds a pines de gpio
